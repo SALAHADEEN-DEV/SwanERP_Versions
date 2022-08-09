@@ -2,6 +2,6 @@
 <item>
   <version>2.0.0.0</version>
   <url>https://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
-  <changelog>https://raw.githubusercontent.com/SALAHADEEN-DEV/ASTRA/master/changlog</changelog>
+  <changelog>https://raw.githubusercontent.com/SALAHADEEN-DEV/ASTRA/master/changlog.md</changelog>
   <mandatory>false</mandatory>
 </item>
