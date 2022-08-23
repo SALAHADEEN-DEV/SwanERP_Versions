@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>2.0.0.0</version>
+  <version>1.2023.0.0</version>
   <url>https://github.com/SALAHADEEN-DEV/ASTRA/releases/download/v2.0.0.0/update.zip</url>
   <changelog>https://raw.githubusercontent.com/SALAHADEEN-DEV/ASTRA/master/changlog.md</changelog>
   <mandatory minVersion="1.2023.0.0">true</mandatory>
