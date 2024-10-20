@@ -3,5 +3,5 @@
   <version>1.2024.0.2</version>
   <url>https://github.com/SALAHADEEN-DEV/SwanERP_Versions/archive/refs/tags/v1.2024.0.2.zip</url>
   <mandatory>true</mandatory>
-  <minVersion>1.2024.0.2</mandatory>
+  <minVersion>1.2024.0.2</minVersion>
 </item>
