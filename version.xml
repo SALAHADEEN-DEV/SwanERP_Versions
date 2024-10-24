@@ -4,4 +4,7 @@
   <url>https://github.com/SALAHADEEN-DEV/SwanERP_Versions/archive/refs/tags/v1.2024.0.2.zip</url>
   <mandatory>true</mandatory>
   <minVersion>1.2024.0.2</minVersion>
+  <ChangeLogURL>https://github.com/SALAHADEEN-DEV/SwanERP_Versions/archive/refs/tags/v1.2024.0.2.zip</url>
+  <SQLScriptsListURL>https://github.com/SALAHADEEN-DEV/SwanERP_Versions/archive/refs/tags/v1.2024.0.2.zip</url>
+  <MainSQLScriptURL>https://github.com/SALAHADEEN-DEV/SwanERP_Versions/archive/refs/tags/v1.2024.0.2.zip</url>
 </item>
